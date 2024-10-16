@@ -4,14 +4,3 @@ tiga
 empat
 lima
 enam
-case 1: ada tambahan file di remote repo, dilocal belum
-// pake git add commit
-- git add , commit codingan dilocal
-- sebelum git push, git pull dulu
-
-// pake git stash(menyimpan sementara codingan di local)
-- git stash
-- git pull
-- git stash apply
-
-case: ketika file dan line yang sama berubah
